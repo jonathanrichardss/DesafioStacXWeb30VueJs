@@ -1,5 +1,3 @@
-# web30-stackx-vue
-
 # Desafio Web 3.0 StackX - VueJs
 
  
